@@ -31,7 +31,7 @@ let number = 250303042332
 // calculates the sum of 1+2+3+4...+98+99+100+n
 // print the result
 ```
-11. Write a prgrma that reads 5 numbers and prints if the nubmer is negative or positive
+11. Write a program that reads 5 numbers and prints if the nubmer is negative or positive
 
 ## Level 3 - Hard
 13. An internet cafe has 1 way of charging. The user has to pay 5$/hour. Calculate the price based on how many hours the user spend. If the user spent 10 hours or more, give him 10% of discount
